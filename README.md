@@ -5,7 +5,7 @@ HTML, CSS, and JavaScript
 ## Summary
 I created a Javascript code quiz: <br>
 That cycles through an object array of questions and answers that are compared with the users input. <br>
-That stores the correct answers along with the users initials
+That stores the correct answers along with the users initials <br>
 I only added 3 questions so far, will add more later. Just wanted to get everything working and turned in.
 ## Preview of the site
 ![image](https://github.com/OscarP76/QuizCode-Homework/blob/main/code-quiz-snip.PNG)
