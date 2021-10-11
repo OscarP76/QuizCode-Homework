@@ -7,7 +7,7 @@ I created a Javascript code quiz: <br>
 That cycles through an object array of questions and answers that are compared with the users input. <br>
 That stores the correct answers along with the users initials
 ## Preview of the site
-![image](![Coding Quiz](https://user-images.githubusercontent.com/88392799/136825955-09363222-5cd7-48db-87e6-62e669e5cb8f.png)
+![image](![code-quiz-snip](https://user-images.githubusercontent.com/88392799/136826040-1287a299-6852-40d0-9fe2-39608b44f0b8.PNG)
 )
 ## Code Snippet (JavaScript Code)
 document.getElementById('start-button').addEventListener('click', function () {
